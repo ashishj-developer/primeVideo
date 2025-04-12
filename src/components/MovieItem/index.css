@@ -1,0 +1,30 @@
+.triggerBtn {
+  background-color: transparent;
+  border-width: 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.thumbnail {
+  height: 23vh;
+}
+
+.popup-content {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 50vw;
+  height: 60vh;
+}
+
+.btn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.player {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}

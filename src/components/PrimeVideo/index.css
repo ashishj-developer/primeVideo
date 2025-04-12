@@ -1,0 +1,22 @@
+.PrimeVideoBg {
+  font-family: 'Roboto';
+  background-color: #000000;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.PrimeVideoImg {
+  width: 100vw;
+  height: 40vh;
+}
+
+.PrimeVideoBottom {
+  padding: 5vh;
+  width: 100vw;
+}
+
+.primeHeading {
+  margin: 0px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
